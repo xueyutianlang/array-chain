@@ -2,6 +2,8 @@
 
 > Get value of nested arrays by chain operation.
 
+[![Build Status](https://travis-ci.org/netsan/array-chain.svg?branch=master)](https://travis-ci.org/netsan/array-chain)
+
 ## Features
 
 - Chainable
