@@ -1,0 +1,23 @@
+{
+    "name": "netsan/array-chain",
+    "description": "Get value of nested arrays by chain operation.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "netsan@qq.com",
+            "email": "mr.guoquan@gmail.com",
+            "homepage": "http://blog.netsan.cn"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Netsan\\Helper\\": "src/"
+        }
+    }
+}
